@@ -1,4 +1,4 @@
-package PICNIC;
+package simple.PICNIC;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package BOARDCOVER;
+package simple.BOARDCOVER;
 
 import java.io.*;
 
