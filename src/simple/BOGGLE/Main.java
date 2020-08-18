@@ -1,4 +1,4 @@
-package BOGGLE;
+package simple.BOGGLE;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package LECTURE;
+package simple.LECTURE;
 
 import java.io.*;
 import java.util.Arrays;

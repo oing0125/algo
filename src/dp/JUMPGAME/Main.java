@@ -1,4 +1,4 @@
-package DP_JUMPGAME;
+package dp.JUMPGAME;
 
 import java.io.*;
 

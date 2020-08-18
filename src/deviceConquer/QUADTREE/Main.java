@@ -1,4 +1,4 @@
-package 분할정복_QUADTREE;
+package deviceConquer.QUADTREE;
 
 import java.io.*;
 
