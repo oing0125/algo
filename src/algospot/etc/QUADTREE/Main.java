@@ -1,4 +1,4 @@
-package deviceConquer.QUADTREE;
+package algospot.etc.QUADTREE;
 
 import java.io.*;
 

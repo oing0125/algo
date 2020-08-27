@@ -1,4 +1,4 @@
-package simple.PICNIC;
+package algospot.etc.PICNIC;
 
 import java.io.*;
 

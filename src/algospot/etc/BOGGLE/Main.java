@@ -1,4 +1,4 @@
-package simple.BOGGLE;
+package algospot.etc.BOGGLE;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package simple.LECTURE;
+package algospot.etc.LECTURE;
 
 import java.io.*;
 import java.util.Arrays;

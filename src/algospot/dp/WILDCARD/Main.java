@@ -1,4 +1,4 @@
-package dp.WILDCARD;
+package algospot.dp.WILDCARD;
 
 import java.io.*;
 import java.util.ArrayList;

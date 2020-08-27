@@ -1,4 +1,4 @@
-package simple.BOARDCOVER;
+package algospot.etc.BOARDCOVER;
 
 import java.io.*;
 

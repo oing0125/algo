@@ -1,4 +1,4 @@
-package dp.JUMPGAME;
+package algospot.dp.JUMPGAME;
 
 import java.io.*;
 

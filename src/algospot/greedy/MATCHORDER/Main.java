@@ -1,4 +1,4 @@
-package greedy.MATCHORDER;
+package algospot.greedy.MATCHORDER;
 
 import java.io.*;
 import java.util.Arrays;

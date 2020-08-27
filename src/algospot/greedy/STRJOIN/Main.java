@@ -1,8 +1,6 @@
-package greedy.STRJOIN;
+package algospot.greedy.STRJOIN;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.List;
 import java.util.PriorityQueue;
 
 public class Main {

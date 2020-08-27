@@ -1,7 +1,6 @@
-package dp.TRIANGLEPATH;
+package algospot.dp.TRIANGLEPATH;
 
 import java.io.*;
-import java.util.Arrays;
 
 public class Main {
 
