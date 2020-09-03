@@ -1,14 +1,7 @@
-package hackerrank.spartArrays;
-
-import com.sun.org.apache.xpath.internal.objects.XObject;
+package hackerrank.algo.spartArrays;
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class Solution {
 

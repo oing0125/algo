@@ -1,7 +1,5 @@
-package hackerrank.javaRex;
+package hackerrank.java.rex;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 import java.util.Scanner;
 
 class Solution{
